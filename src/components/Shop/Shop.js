@@ -64,4 +64,4 @@ import './Shop.css'
     );
 };
 
-export default Shop;
+export default Shop; 

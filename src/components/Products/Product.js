@@ -16,7 +16,7 @@ const Product = (props) => {
             <h3 className="product-name">{name}</h3>
             <p><small> By:{seller}</small></p> 
             <p>price :{price}</p>
-            <p><small> only {stock} left in stock - order soon </small></p>
+            <p><small> only {stock} left in stock - order soon this </small></p>
             <Rating 
              readonly   
              initialRating = {star}
